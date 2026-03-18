@@ -42,7 +42,7 @@ Maintain consistency for better collaboration and version control.
 - Created log.txt
 - Initialized version tracking notes
 [2026-03-18] Commit 01 - Initial repository setup
-
+[2026-03-18] Commit 02 - Added README file
 
 
 
