@@ -14,3 +14,24 @@
 --- Notes ---
 This log tracks foundational commits and setup steps.
 Maintain consistency for better collaboration and version control.
+=== Base Commits Log ===
+
+[2026-03-18 10:00] INIT: Repository initialized with base structure
+[2026-03-18 10:05] ADD: Created README.md with project description
+[2026-03-18 10:10] ADD: Added .gitignore file
+[2026-03-18 10:15] SETUP: Configured initial commit standards
+[2026-03-18 10:20] UPDATE: Organized project folders and structure
+
+[2026-03-18 10:30] ADD: Created log.txt for tracking changes
+[2026-03-18 10:35] UPDATE: Added initial log entries
+[2026-03-18 10:40] FIX: Corrected formatting in log file
+[2026-03-18 10:45] CHORE: Cleaned up unused files
+
+--- Commit Guidelines ---
+- Use clear and descriptive messages
+- Follow conventional commit format (feat, fix, docs, chore)
+- Keep commits small and focused
+
+--- Notes ---
+This log tracks foundational commits and setup steps.
+Maintain consistency for better collaboration and version control.
