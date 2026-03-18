@@ -1,0 +1,16 @@
+=== Base Commits Log ===
+
+[2026-03-18 10:00] INIT: Repository initialized with base structure
+[2026-03-18 10:05] ADD: Created README.md with project description
+[2026-03-18 10:10] ADD: Added .gitignore file
+[2026-03-18 10:15] SETUP: Configured initial commit standards
+[2026-03-18 10:20] UPDATE: Organized project folders and structure
+
+--- Commit Guidelines ---
+- Use clear and descriptive messages
+- Follow conventional commit format (feat, fix, docs, chore)
+- Keep commits small and focused
+
+--- Notes ---
+This log tracks foundational commits and setup steps.
+Maintain consistency for better collaboration and version control.
