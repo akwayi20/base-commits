@@ -26,7 +26,7 @@ Maintain consistency for better collaboration and version control.
 [2026-03-18 10:35] UPDATE: Added initial log entries
 [2026-03-18 10:40] FIX: Corrected formatting in log file
 [2026-03-18 10:45] CHORE: Cleaned up unused files
-
+-txt.base
 --- Commit Guidelines ---
 - Use clear and descriptive messages
 - Follow conventional commit format (feat, fix, docs, chore)
